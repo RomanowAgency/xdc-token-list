@@ -1,0 +1,23 @@
+{
+  "name": "XDC20 Tokens Apothem",
+  "timestamp": "2021-12-22T17:38:38.162Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "blockchain",
+    "defi",
+    "devdefi"
+  ],
+  "tokens": [
+    {
+      "chainId": 51,
+      "address": "",
+      "name": "TXSP",
+      "symbol": "TXSP",
+      "decimals": 18
+    }
+  ]
+}

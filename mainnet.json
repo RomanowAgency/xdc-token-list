@@ -1,0 +1,26 @@
+{
+  "name": "XDC20 Tokens",
+  "timestamp": "2021-12-22T17:38:38.162Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+  },
+  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
+  "keywords": [
+    "blockchain",
+    "sec",
+    "action"
+  ],
+  "tokens": [
+    {
+      "chainId": 50,
+      "address": "",
+      "name": "XSP",
+      "symbol": "XSP",
+      "decimals": 8
+    }
+  ]
+}
