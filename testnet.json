@@ -14,9 +14,16 @@
   "tokens": [
     {
       "chainId": 51,
-      "address": "",
-      "name": "TXSP",
-      "symbol": "TXSP",
+      "address": "0xEE3C205346923a989F82827A25778FB6FdfE84d0",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 51,
+      "address": "0xFdCf8bD44EC46a71a13f00F4328F6b65adc8BCf9",
+      "name": "Test Token",
+      "symbol": "TT",
       "decimals": 18
     }
   ]
