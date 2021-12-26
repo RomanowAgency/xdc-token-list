@@ -25,6 +25,13 @@
       "name": "Test Token",
       "symbol": "TT",
       "decimals": 18
+    },
+    {
+      "chainId": 51,
+      "address": "0xbC4979e749c28F81F22f95B603B350D9Ab0F172A",
+      "name": "Test Token 2",
+      "symbol": "TT2",
+      "decimals": 18
     }
   ]
 }
