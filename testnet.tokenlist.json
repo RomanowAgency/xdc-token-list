@@ -32,6 +32,13 @@
       "name": "Test Token 2",
       "symbol": "TT2",
       "decimals": 18
+    },
+    {
+      "chainId": 51,
+      "address": "0x339c94081D1F7808FeEa3E6E5B1feA864c3cef43",
+      "name": "XSP",
+      "symbol": "XSP",
+      "decimals": 18
     }
   ]
 }
