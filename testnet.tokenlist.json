@@ -4,13 +4,14 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "keywords": [
     "blockchain",
     "defi",
     "devdefi"
   ],
+  "logoURI": "https://raw.githubusercontent.com/RomanowAgency/xdc-token-list/master/romanow.png",
   "tokens": [
     {
       "chainId": 51,

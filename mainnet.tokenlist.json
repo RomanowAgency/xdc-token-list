@@ -4,11 +4,11 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
   },
-  "logoURI": "https://romanow.org/images/meta/apple-touch-icon-ipad-retina-152x152.png",
+  "logoURI": "https://raw.githubusercontent.com/RomanowAgency/xdc-token-list/master/romanow.png",
   "keywords": [
     "blockchain",
     "sec",
