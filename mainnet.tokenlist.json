@@ -4,11 +4,11 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {
   },
-  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
+  "logoURI": "https://romanow.org/images/meta/apple-touch-icon-ipad-retina-152x152.png",
   "keywords": [
     "blockchain",
     "sec",
