@@ -49,5 +49,5 @@ The most popular tokens on XinFin Network
  ]
 ```
 
-===
-If you have any suggestions or questions you can write here: @romanow_org
+---
+If you have a problem with git you can contact @romanow_org
