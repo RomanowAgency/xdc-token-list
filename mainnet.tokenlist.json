@@ -28,6 +28,13 @@
       "name": "Wrapped XDC",
       "symbol": "WXDC",
       "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x1fEA0634B07341adf623FB96AbC636fb178A12b8",
+      "name": "Xtest",
+      "symbol": "XT",
+      "decimals": 18
     }
   ]
 }
