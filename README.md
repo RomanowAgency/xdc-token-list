@@ -4,7 +4,7 @@ The most popular tokens on XinFin Network
 
 ## How to add logo and token to suggested list?
 
- - Clone this repo and create a new branch.
+ - Fork this repo and create a new branch.
  - In the `assets` folder, create a new directory and call it as your token address.
  - Add logo.png file inside of that directory
  - Open `mainnet.tokenlist.json` file and add your token info after the last token description under `"tokens"` key.
