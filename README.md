@@ -1,4 +1,5 @@
-#IMPORTANT
+# ❗️VERY IMPORTANT❗️
+
 1) Use png formatted images for logo.
 2) Logo image size should be less than 20KB.
 3) Do not forget to add commas after curly braces in JSON files. [{...token info...}, {...another token info...}]
