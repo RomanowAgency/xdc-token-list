@@ -76,7 +76,7 @@
       "address": "0xd04275E2Fd2875beaade6A80b39A75D4fe267df6",
       "name": "NOTA",
       "symbol": "USNOTA",
-      "decimals": 18
+      "decimals": 6
     }
   ]
 }
