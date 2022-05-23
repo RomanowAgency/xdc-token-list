@@ -35,55 +35,55 @@
       "name": "Bridged USDT",
       "symbol": "xUSDT",
       "decimals": 6
-    }
+    },
     {
       "chainId": 50,
       "address": "0xb3f18b584263191a33169f6393487e43e9586329",
       "name": "WadzPay Token",
       "symbol": "WTK",
       "decimals": 18
-    }
+    },
     {
       "chainId": 50,
       "address": "0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd",
       "name": "Storx",
       "symbol": "SRX",
       "decimals": 18
-    }
+    },
     {
       "chainId": 50,
       "address": "0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391",
       "name": "Plugin",
       "symbol": "PLI",
       "decimals": 18
-    }
+    },
     {
       "chainId": 50,
       "address": "0x4826634fe187ed3ffb64d77c5c1a67ba49cc03de",
       "name": "BlocksWorkz Token",
       "symbol": "BLKZ",
       "decimals": 18
-    }
+    },
     {
       "chainId": 50,
       "address": "0x20b59e6c5deb7d7ced2ca823c6ca81dd3f7e9a3a",
       "name": "Datachain Foundation",
       "symbol": "DC",
       "decimals": 18
-    }
+    },
     {
       "chainId": 50,
       "address": "0x0e11710aad67e7427cfbc12c353284c2e335f62c",
       "name": "PrimeNumbers Token",
       "symbol": "PRNT",
       "decimals": 18
-    }
+    },
     {
       "chainId": 50,
       "address": "0xd04275e2fd2875beaade6a80b39a75d4fe267df6",
       "name": "NOTA",
       "symbol": "USNOTA",
       "decimals": 18
-    }    
+    },    
   ]
 }
