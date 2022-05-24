@@ -9,6 +9,16 @@
 
     ✅:`0x4826634Fe187Ed3FFb64d77c5C1A67Ba49cc03dE`
 
+# VERY IMPORTANT
+1) Use png formatted images for logo.
+2) Logo image size should be less than 20KB.
+3) Do not forget to add commas after curly braces in JSON files. [{...token info...}, {...another token info...}]
+4) Insert correct address of token with uppercase letters.
+
+    ❌:`0x4826634fe187ed3ffb64d77c5c1a67ba49cc03de`
+
+    ✅:`0x4826634Fe187Ed3FFb64d77c5C1A67Ba49cc03dE`
+
 # xdc-token-list
 The most popular tokens on XinFin Network
 

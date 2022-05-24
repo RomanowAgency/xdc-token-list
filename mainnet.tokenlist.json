@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 6
+    "patch": 7
   },
   "tags": {
   },
@@ -76,6 +76,13 @@
       "address": "0xd04275E2Fd2875beaade6A80b39A75D4fe267df6",
       "name": "NOTA",
       "symbol": "USNOTA",
+      "decimals": 6
+    },
+    {
+      "chainId": 50,
+      "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+      "name": "Bridged USDT",
+      "symbol": "xUSDT",
       "decimals": 6
     }
   ]
