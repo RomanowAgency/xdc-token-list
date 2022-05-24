@@ -3,8 +3,8 @@
   "timestamp": "2021-12-22T17:38:38.162Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 3
+    "minor": 2,
+    "patch": 0
   },
   "keywords": [
     "blockchain",
@@ -40,6 +40,13 @@
       "name": "XSP",
       "symbol": "XSP",
       "decimals": 18
-    }
+    },
+    {
+      "chainId": 50,
+      "address": "0x34514748F86A8dA01Ef082306b6d6e738F777f5A",
+      "name": "GBEX",
+      "symbol": "GBEX",
+      "decimals": 18
+    }    
   ]
 }
