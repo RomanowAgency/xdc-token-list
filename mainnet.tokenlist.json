@@ -17,6 +17,13 @@
   "tokens": [
     {
       "chainId": 50,
+      "address": "0x17476dc3eda45aD916cEAdDeA325B240A7FB259D",
+      "name": "XSwap Treasury Token",
+      "symbol": "XTT",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
       "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
       "name": "XSP Token",
       "symbol": "XSP",

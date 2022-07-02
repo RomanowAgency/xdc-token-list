@@ -3,13 +3,13 @@
   "timestamp": "2021-12-22T17:38:38.162Z",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "keywords": [
     "blockchain",
-    "defi",
-    "devdefi"
+    "xswapprotocol",
+    "xswap"
   ],
   "logoURI": "https://raw.githubusercontent.com/RomanowAgency/xdc-token-list/master/romanow.png",
   "tokens": [
